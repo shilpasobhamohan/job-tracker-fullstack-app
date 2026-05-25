@@ -134,8 +134,12 @@ http://localhost:5173
 ---
 
 ## Screenshots
+<img width="1841" height="885" alt="image" src="https://github.com/user-attachments/assets/b813c767-c687-4934-8389-56e133d51319" />
+<img width="1717" height="1023" alt="image" src="https://github.com/user-attachments/assets/36dba749-59e5-4eac-86d4-c67ad9d55385" />
+<img width="1688" height="1028" alt="image" src="https://github.com/user-attachments/assets/3dcc1294-d174-471a-9d91-11b5ce01d025" />
 
-_Add screenshots here later_
+
+
 
 ---
 
